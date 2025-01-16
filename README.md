@@ -20,5 +20,5 @@ A simple Python program to manage student grades. This program allows you to add
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/student-grade-management.git
-   cd student-grade-management
+   git clone https://github.com/jawad-elhajjami/StudentGradeManagementPython.git
+   cd student-grade-management-python
